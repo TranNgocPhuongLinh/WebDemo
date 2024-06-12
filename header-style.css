@@ -1,7 +1,9 @@
 #logo_content > div > div > img{
-    width: 100px;
-    height: 100px;
-    margin: 0 50px 0 50px;
+    width: 120px;
+    height: 120px;
+    margin: auto;
+    display: block;
+    text-align: center;
 }
 #offcanvas_content{
     font-family: Arial, Helvetica, sans-serif;
