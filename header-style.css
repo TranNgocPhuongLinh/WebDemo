@@ -1,9 +1,22 @@
 #logo_content > div > div > img{
-    width: 120px;
-    height: 120px;
+    width: 170px;
+    height: 170px;
     margin: auto;
     display: block;
     text-align: center;
+}
+
+.contacts{
+    float: right;
+}
+
+.contacts > i{
+    padding-right: 10px;
+}
+.contacts > i > span{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    padding-left: 5px;
 }
 #offcanvas_content{
     font-family: Arial, Helvetica, sans-serif;
