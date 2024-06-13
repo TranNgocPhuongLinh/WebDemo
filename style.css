@@ -1,0 +1,24 @@
+#sliderNav{
+    margin-top: 20px;
+}
+#sliderNav{
+    height: 200px;
+    border: 0.5px solid black;
+}
+
+#sliderNav button{
+    width: 50px;
+    height: 75px;
+    background-color: transparent;
+    outline: none;
+    border: 1px solid #e7e7e7;
+    margin-top: auto;
+}
+
+#sliderNav button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#sliderNav button i{
+    font-size: 25px;
+}
